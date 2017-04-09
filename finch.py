@@ -11,7 +11,6 @@ def connectToJenkins():
     server = Jenkins(jenkinsServerUrl+":"+jenkinsServerPort.__str__())
     return server
 
-#gets jobs listed with the appropriate jenkins server (Passed as first arguement).
 def getJenkinsJobs(server):
     return server.keys()
 
