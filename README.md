@@ -12,7 +12,7 @@ If you're a Prowl employee, you need login to the Prowl VPS, and then clone the 
 
 <pre>git clone http://www.github.com/Montana/finch.git</pre>
 
-Once Finch is cloned, you can run Finch by running: 
+Once Finch is cloned, you can run Finch by running
 
 <pre>python finch.py</pre> 
 
