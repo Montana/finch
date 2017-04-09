@@ -1,3 +1,5 @@
+![Jenkins](https://wiki.jenkins-ci.org/download/attachments/2916393/master-jenkins.svg)
+
 #### Finch 
 
 ### What is Finch?
